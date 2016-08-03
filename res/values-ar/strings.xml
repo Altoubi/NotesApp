@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_new">        إضافة مذكرة جديدة</string>
+    <string name="type_title">عنوان المذكرة</string>
+    <string name="added">تمت الاضافة </string>
+    <string name="EmptyText">يوجد نص فارغ</string>
+    <string name="app_name">مذكرات</string>
+    <string name="action_settings">الاعدادات</string>
+    <string name="save">حفظ</string>
+    <string name="type_text">أكتب النص هنا ...</string>
+    <string name="updated">حدثت</string>
+    <string name="update_note">تحديث المذكرة</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Muthakerat</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_new">Add New Note</string>
+    <string name="type_title">type title ...</string>
+    <string name="save">Save</string>
+    <string name="type_text">type text .</string>
+    <string name="updated">Updated</string>
+    <string name="update_note">update note</string>
+</resources>
